@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1546430-3fc7-49d0-913f-cf5317e68e32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../AI/DL/golbin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/DL/golbin/CNN_practice_mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/DL/golbin/RNN_practice_autocomplete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/DL/golbin/RNN_practice_mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/DL/밑바닥 딥러닝/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/DL/밑바닥 딥러닝/multi-layer-perceptron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/DL/밑바닥 딥러닝/perceptron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/DL/밑바닥 딥러닝/sigmoid_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/DL/밑바닥 딥러닝/step_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/Project/얼굴인식/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/Project/얼굴인식/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/Project/얼굴인식/CNN_exmple_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/Project/얼굴인식/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/RL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/RL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/RL/Deep RL/Chapter 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/RL/Deep RL/Chapter 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/RL/Deep RL/Chapter 2/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/RL/Deep RL/Chapter 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/RL/Practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/RL/Practice/dqn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/RL/Practice/dqn_2015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/RL/simple-policy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/Deep Learning with PyTorch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/Basics/feedforward_neural_network/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/Basics/feedforward_neural_network/model.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/Basics/linear_regression/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/Basics/logistic_regression/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/Basics/pytorch_basics/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/Basics/pytorch_basics/model.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/Basics/pytorch_basics/params.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/CNN/Basic/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/CNN/ResNet/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/GAN/Basic/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/RL/dqn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/RL/reinforcement_q_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/RNN/BIRNN/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/MyPytorch/RNN/Basic/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/PyTorch-FastCampus-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/PyTorchZeroToAll-master/blackpink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/PyTorchZeroToAll-master/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/feedforward_nerul_network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/linear_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch CNN/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch CNN/AlexNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch CNN/GoogleNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch CNN/Inception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch CNN/ResNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch CNN/VGG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch CNN/Xception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch CNN/segmentation/dd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch CNN/segmentation/ds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch CNN/segmentation/segNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch_tutorial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch_tutorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch_tutorial/chatbot_tutorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch_tutorial/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/pytorch_tutorial/rnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/tutorials/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/pytorch/tutorials/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/stock/MyStock/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/stock/MyStock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/stock/MyStock/Stock_Agent/PolicyNetwork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/stock/MyStock/Stock_Agent/agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/stock/MyStock/Stock_Agent/enviroment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/stock/MyStock/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/stock/MyStock/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/stock/MyStock/practice2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/tensorflow/tutorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/tensorflow/tutorial/ANN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/tensorflow/tutorial/CNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AI/tensorflow/tutorial/CNN_CIFAR-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../MYRL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../MYRL/chapter 2/Random_CartPole.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../MYRL/chapter 2/breakout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../MYRL/chapter 2/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../MYRL/openAI_gym.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gather_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faceNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/Son.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/opencv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model/Inception.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model/googleNet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../speak python/speak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../RL/cross-entropy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Speech recognition/.idea/Speech recognition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Speech recognition/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Speech recognition/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Speech recognition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Speech recognition/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bizchool/딥러닝/CNN 실습/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/.idea/crowling.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/.idea/dictionaries/javis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/auto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/list.xlsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../crowling/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1325439578">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="png" value="102" />
+          <entry key="py" value="7" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="102" />
+          <entry key="Python" value="7" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="660" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="660" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gather_dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/yoongyo/19.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/yoongyo/15.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/yoongyo/11.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/yoongyo/9.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/yoongyo/6.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/yoongyo/2.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gather_dataset.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="62" />
+    <option name="y" value="82" />
+    <option name="width" value="1380" />
+    <option name="height" value="791" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dataset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="gather_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gather_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gather_dataset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1546430-3fc7-49d0-913f-cf5317e68e32" name="Default Changelist" comment="" />
+      <created>1549594719941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549594719941</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="62" y="82" width="1380" height="791" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23399559" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.30615166" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/13.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/12.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sfa/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sfa/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sfa/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sfa/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sfa/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sfa/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/person0/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/person0/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/person0/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dfaf/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dfaf/9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dfaf/10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dfaf/7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dfaf/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dfaf/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dfaf/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dfaf/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dfaf/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dfaf/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/14.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/16.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/17.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/18.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/15.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/13.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoonas/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gather_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/19.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/15.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yoongyo/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+</project>
